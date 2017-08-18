@@ -1,3 +1,3 @@
 # Flat-Planet
 2d planet created using spherical normal map and simple texture
- Flat-Planet/planet2.gif 
+https://github.com/JohnMeadow1/Flat-Planet/blob/master/planet2.gif
